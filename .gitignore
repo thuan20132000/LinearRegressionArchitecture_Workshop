@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env
+
+# Data and artifacts
+data/processed/
+experiments/*.log
+.ipynb_checkpoints/
