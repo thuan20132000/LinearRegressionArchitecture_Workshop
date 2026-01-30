@@ -6,5 +6,6 @@ env
 
 # Data and artifacts
 data/processed/
+data/raw/
 experiments/*.log
 .ipynb_checkpoints/
